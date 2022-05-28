@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"dancing",
+			"dancing",
+			[
+				186,
+				53,
+				73
+			]
+		],
+		[
+			"greatsong",
+			"dancing",
+			[
+				186,
+				53,
+				73
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "laberinth",
+	"difficulties": "Normal, Hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "No puerde ser, El meme a llegado a fnf",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}
